@@ -38,6 +38,7 @@ def create_profile_record(file_path):
             "numRoutes": numRoutes,
             "numSegments": numSegments,
             "numWaypoints": numWaypoints,
+            "file": file_path
         }
         
     pass
@@ -46,7 +47,7 @@ routeData = []
 
 errors = []
 
-folder_path = "./bpt-gpx"
+folder_path = "./GPXfiles"
 
 for filename in os.listdir(folder_path):
     file_path = os.path.join(folder_path, filename)
