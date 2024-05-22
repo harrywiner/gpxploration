@@ -1,5 +1,282 @@
-,name,routeType,numRoutes,numSegments,numWaypoints
-0,"5: Islip to Christ Church Cathedral, Oxford (10 miles)",track,1,1,13
-1,,route,1,0,0
-2,StRumwoldsWay.gpx,track,2,2,15
-3,WPPW:  Full Route,track,1,1,5
+,name,routeType,numRoutes,numSegments,numWaypoints,file
+0,St Wilfrid's Way,track,1,1,22,./GPX files/St-Wilfrids-Way.gpx
+1,Justus Way,track,3,3,5,./GPX files/Rochester Cathedral-Justus-Way.gpx
+2,Boreham Street to Battle (Stage 9 of Old Way),track,1,1,0,./GPX files/9.Boreham-Battle.gpx
+3,Cornish Saints' Way,track,1,1,8,./GPX files/Cornish-Saints-Way.gpx
+4,The Abbesses' Way,track,3,3,17,./GPX files/Abbesses-Way.gpx
+5,,route,1,0,0,./GPX files/St Andrews Circuit.gpx
+6,,route,1,0,0,./GPX files/LouthtoLincoln.gpx
+7,Lichfield Cathedral Day Circular,track,1,1,12,./GPX files/Lichfield-Cathedral-Day-Circular.gpx
+8,,route,1,0,0,./GPX files/Norwich Cathedral from Surlingham Church Ruins.gpx
+9,,route,1,0,0,./GPX files/St Thomas_ Way [11] Longtown.gpx
+10,St Edmund Way,track,2,2,22,./GPX files/St-Edmund-Way.gpx
+11,Bramber to Lewes (Stage 6 of Old Way),track,1,1,0,./GPX files/6.Bramber-Lewes.gpx
+12,Cerne Abbas to Abbotsbury,track,4,4,26,./GPX files/Dorset Catherine Cernunnos Way.gpx
+13,,route,1,0,0,./GPX files/Robin Hood Way.gpx
+14,,route,1,0,0,./GPX files/St Thomas_ Way [10] Patrishow.gpx
+15,Titchfield to Havant (Stage 2 of Old Way),track,1,1,0,./GPX files/2.Titchfield-Havant.gpx
+16,,route,1,0,0,./GPX files/Lyke Wake Walk.gpx
+17,The London Royal Route,track,5,5,55,./GPX files/London-Coronation-Royal-Route.gpx
+18,,route,1,0,0,./GPX files/Carlisle-Caldbeck.gpx
+19,,track,1,1,0,./GPX files/threechoirsway.gpx
+20,Ithamar Way,track,1,1,6,./GPX files/Rochester Cathedral-Ithamar-Way.gpx
+21,The Morville Addendum to the Abbesses' Way,track,2,2,10,./GPX files/Morville-Addendum-to-the-Abbesses-Way.gpx
+22,Exeter Circular Pilgrimage,track,1,1,7,./GPX files/Exeter-Circular-Pilgrimage.gpx
+23,Drafted on 2022-02-22,track,1,1,0,./GPX files/Rosslyn Chapel Way.gpx
+24,Pen y Crug Loop,track,1,1,6,./GPX files/Brecon-Cathedral-Pen-y-Crug-Loop.gpx
+25,Bristol Cathedral Pilgrimage in a Day,track,2,2,3,./GPX files/Bristol-Cathedral-City-Circular-Pilgrimage and linear from Sea Mills.gpx
+26,Norwich to Walsingham,track,1,1,0,./GPX files/Walsingham Way - Norwich-to-Walsingham.gpx
+27,,route,1,0,0,./GPX files/Pilgrims Trail - Winchester to Portsmouth.gpx
+28,Epworth to Lincoln.gpx,track,13,13,0,./GPX files/Epworth-to-Lincoln.gpx
+29,,route,1,0,18,./GPX files/Abingdon Abbey over Boars Hill to Oxford Day Cathedral Pilgrimage.gpx
+30,St Edward's Way Day 2,route,1,0,7,./GPX files/St Edward_s Way Day 2.gpx
+31,,route,1,0,0,./GPX files/Deeside Way.gpx
+32,,route,1,0,0,./GPX files/St Thomas_ Way [1] Swansea.gpx
+33,Battle to Winchelsea (Stage 10 of Old Way),track,1,1,0,./GPX files/10.Battle-Winchelsea.gpx
+34,,route,10,0,67,./GPX files/Cornish Celtic Way.gpx
+35,,route,1,0,0,./GPX files/St Andrews Way.gpx
+36,Truro Cathedral (Linking route for circular option),track,1,1,0,./GPX files/Truro-Cathedral-Linking-route-for-circular-option.gpx
+37,,route,1,0,0,./GPX files/St Columbas Way.gpx
+38,Lincoln Cathedral Pilgrimage in a Day,track,3,3,23,./GPX files/Lincoln-Cathedral-Pilgrimage-in-a-Day.gpx
+39,,route,1,0,0,./GPX files/St Thomas_ Way [7] Newport.gpx
+40,,route,1,0,0,./GPX files/Beverley Minster to Bridlington Priory.gpx
+41,Gloucester Cathedral Pilgrimage in a Day,track,2,2,24,./GPX files/Gloucester-Cathedral-Pilgrimage-in-a-Day.gpx
+42,St Michael's Way,track,1,1,0,./GPX files/St-Michaels-Way.gpx
+43,WhitchurchCanon1.gpx,track,6,6,24,./GPX files/Ways to Whitchurch Canonicorum - from Stoke Abbott.gpx
+44,,route,1,0,0,./GPX files/Bristol Cathedral Aust Pilgrimage.gpx
+45,Way of the Sea,route,1,0,0,./GPX files/Way of the Sea.gpx
+46,Llanthony Valley Pilgrimage (Vale of Ewyas),track,3,3,24,./GPX files/Ewyas-Olchon-Monnow-Valleys-Way.gpx
+47,Gundulf Way,track,2,2,8,./GPX files/Rochester Cathedral-Gundulf-Way.gpx
+48,,route,2,0,20,./GPX files/Dorchester Abbey to Oxford Day Cathedral Pilgrimage.gpx
+49,Winchelsea to Appledore (Stage 11 of Old Way),track,1,1,0,./GPX files/11.Winchelsea-Appledore.gpx
+50,Wells Cathedral Day Circular.gpx,track,1,1,4,./GPX files/Wells-Cathedral-Day-Circular.gpx
+51,,route,1,0,0,./GPX files/OWOG 8 Chidham to Apuldram.gpx
+52,,route,1,0,0,./GPX files/North Downs Pilgrims Way - Rochester Detour.gpx
+53,,route,1,0,0,./GPX files/StWystansWay.gpx
+54,St Albans Way,track,8,8,5,./GPX files/St-Albans-Way.gpx
+55,Hereford Cathedral from Madley (inc city circular route),track,2,2,6,./GPX files/Hereford-Cathedral-from-Madley--inc-city-circular-route.gpx
+56,,route,1,0,0,./GPX files/Hope Pilgrimage - Full Route.gpx
+57,Southwell Minster from Thurgaton,track,1,1,1,./GPX files/Southwell-Minster-from-Thurgaton.gpx
+58,,track,1,1,12,./GPX files/Way of St Hild.gpx
+59,St Edward's Way Day 3,route,1,0,9,./GPX files/St Edward_s Way Day 3.gpx
+60,,route,1,0,0,./GPX files/Borders Abbeys Way.gpx
+61,,track,1,1,0,./GPX files/whitehorsetrail.gpx
+62,The Eden Way,track,6,6,0,./GPX files/The-Eden-Way-full-route.gpx
+63,Two Saints Way - Bunbury Church to Chester Cathedral,track,1,1,22,./GPX files/Two-Saints-Way-2-days-Bunbury-Church-to-Chester-Cathedral.gpx
+64,"Abingdon Abbey to Christ Church Cathedral, Oxford - via River Thames (11 miles)",track,1,1,17,./GPX files/2-Abingdon-Abbey-to-Christ-Church-Cathedral-Oxford-via-River-Thames-10-5-miles.gpx
+65,Arundel & Brighton: The Way of Our Lady of Consolation,track,1,1,0,./GPX files/Arundel & Brighton RC Diocese - The Way of Our Lady of Consolation.gpx
+66,,route,1,0,0,./GPX files/North Wales Pilgrims Way.gpx
+67,St Edith of Wilton Way,track,1,1,23,./GPX files/St-Edith-of-Wilton-Way.gpx
+68,porlock pilgrimage high level,track,1,1,19,./GPX files/Porlock Pilgrim Trail.gpx
+69,Winchester to Chichester proposed ,track,1,1,34,./GPX files/WinchestertoChichester+Old+Way+Alt+Start.gpx
+70,Worcester Cathedral from Evesham Abbey (2 days) via Pershore Abbey (1 day),track,1,1,18,./GPX files/Worcester-Cathedral-from-Evesham-Abbey-2-days-via-Pershore-Abbey-1-day.gpx
+71,The London Martyr's Way,track,2,2,39,./GPX files/The-London-Martyrs-Way.gpx
+72,,route,1,0,0,./GPX files/Yorkshire Heritage Way - Bradford to Ripon.gpx
+73,Aquae Sulis Way - Bath to Frome,track,1,1,22,./GPX files/Glastonbury Water Way - Aquae-Sulis-Way-Bath-to-Frome.gpx
+74,Leicester circular pilgrimage,track,1,1,5,./GPX files/Leicester-circular-pilgrimage.gpx
+75,FinchaletoDurham.gpx,track,2,2,23,./GPX files/Finchale Camino Ingles.gpx
+76,TRP-full route-self-guided,route,1,0,0,./GPX files/Teifi River Pilgrimage-full route-self-guided.gpx
+77,,route,1,0,0,./GPX files/Great Stones Way.gpx
+78,,route,1,0,0,./GPX files/North Downs Pilgrims Way.gpx
+79,,route,1,0,0,./GPX files/Anglesey-Saints-Way-Seiriol-Cybi.gpx
+80,Wulfstan of Worcester Day Way from Great Malvern Priory,track,3,3,18,./GPX files/Wulfstan-of-Worcester-Day-Way-from-Great-Malvern.gpx
+81,,route,1,0,0,./GPX files/St Margaret_s Loop.gpx
+82,Westminster & the Ukrainian Eparchy: The Way of Two Cathedrals and Four Shrines,track,1,1,0,./GPX files/Westminster and the Ukrainian Eparchy_The Way of Two Cathedrals and Four Shrines.gpx
+83,,route,1,0,0,"./GPX files/Needham Market to Quay Place Wellness Centre, Ipswich.gpx"
+84,St Peter's Way,track,1,1,11,./GPX files/St-Peters-Way.gpx
+85,,route,1,0,0,./GPX files/StConansPilgrimsWay.gpx
+86,,route,2,0,55,./GPX files/Oxford+Frideswide+Four+Gates+to+the+Centre+Pilgrimage.gpx
+87,South Dorset Old Stones Way,track,1,1,13,./GPX files/South-Dorset-Old-Stones-Way.gpx
+88,Dalriada Way,track,1,1,195,./GPX files/Dalriada Way.gpx
+89,,route,1,0,6,./GPX files/Abingdon Abbey via River Thames to Oxford Day Cathedral Pilgrimage.gpx
+90,Friends Way 1,track,9,9,27,./GPX files/Friends-Way-1.gpx
+91,,route,1,0,0,./GPX files/Jerusalem-Haslemere-Chichester.gpx
+92,,route,1,0,0,./GPX files/Whitby Way.gpx
+93,The Becket Way from Southwark to Kemsing,track,1,1,10,./GPX files/Becket-Way-from-Southwark-to-Kemsing.gpx
+94,5: Eynsham to Oxford (10 miles),track,1,1,6,./GPX files/5-Eynsham-to-Oxford-10-miles.gpx
+95,StRumwoldsWay.gpx,track,2,2,15,./GPX files/St Rumbold_s Way.gpx
+96,,route,1,0,0,./GPX files/Mary & Michael Pilgrims Way.gpx
+97,WPPW:  Full Route,track,1,1,5,./GPX files/Wexford-Pembrokeshire Pilgrim Way - Full Route.gpx
+98,Ripon Sanctuary Way,track,1,1,6,./GPX files/Ripon-Sanctuary-Way.gpx
+99,Peterborough Cathedral from Castor.gpx,track,1,1,10,./GPX files/Peterborough-Cathedral-from-Castor.gpx.gpx
+100,Northern Pilgrims' Way,track,6,6,65,./GPX files/Northern-Pilgrims-Way.gpx
+101,,route,1,0,0,./GPX files/Carlisle-Great Orton.gpx
+102,Brentwood: The Way of Our Lady of Light (summer only),track,1,1,0,./GPX files/Brentwood Catholic Diocese - The Way of Our Lady of Light.gpx
+103,,route,1,0,0,./GPX files/Bury-Nowton-Rushbrooke.gpx
+104,,route,1,0,0,./GPX files/St Thomas_ Way [5] St Fagan_s.gpx
+105,YorkMinster-Bilbrough.gpx,track,2,2,4,./GPX files/York-Minster-from Bilbrough.gpx
+106,King Arthur Way,track,13,13,91,./GPX files/King-Arthur-Way.gpx
+107,,route,1,0,0,./GPX files/ReadingAbbey1-Day.gpx
+108,Derby Cathedral City Circular,track,1,1,2,./GPX files/Derby-Cathedral-City-Circular.gpx
+109,Llanddew Loop,track,1,1,12,./GPX files/Brecon-Cathedral-Llanddew-Loop.gpx
+110,Alternative route following Nene Way (misses out the Boardwalk),track,1,1,2,./GPX files/Peterborough Alternative-route-following-Nene-Way--misses-out-the-Boardwalk-.gpx
+111,,route,1,0,0,./GPX files/John Bunyan Trail.gpx
+112,St Bega's Way & Way Back,track,3,3,42,./GPX files/St-Begas-Way-and-Back.gpx
+113,,route,1,0,0,./GPX files/Thames Pilgrim Way.gpx
+114,Kentigern Way,route,1,0,0,./GPX files/Kentigern Way.gpx
+115,Bradford Cathedral Pilgrimage in a Day,track,3,3,18,./GPX files/Bradford-Cathedral-Pilgrimage-in-a-Day.gpx
+116,Worcester Cathedral from Droitwich Spa,track,1,1,9,./GPX files/Worcester-Cathedral-from-Droitwich-Spa.gpx
+117,Wells Cathedral to Glastonbury Abbey,track,2,2,29,./GPX files/Wells-Cathedral-to-Glastonbury-Abbey.gpx
+118,Twin River Valleys Pilgrimage,track,3,3,33,./GPX files/Twin-River-Valleys-Pilgrimage.gpx
+119,,route,1,0,0,./GPX files/St Thomas_ Way [9] Abergavenny.gpx
+120,,route,1,0,0,./GPX files/DayroundWinchester 2.gpx
+121,St Morrells Round,track,1,1,17,./GPX files/St-Morrells-Round.gpx
+122,,route,1,0,0,./GPX files/Fife Pilgrim Way.gpx
+123,,route,1,0,0,./GPX files/CoventryCath1day.gpx
+124,Worcester Cathedral from Upton upon Severn,track,1,1,3,./GPX files/Worcester-Cathedral-from-Upton-upon-Severn.gpx
+125,,route,1,0,0,./GPX files/Avebury-Day-Circular.gpx
+126,GVPW Complete Route 171121,track,1,1,633,./GPX files/Golden Valley Pilgrim Way.gpx
+127,,route,1,0,0,./GPX files/Ladywell Way.gpx
+128,Lympne to Bridge (Stage 13 of Old Way),track,1,1,0,./GPX files/13.Lympne-Bridge.gpx
+129,St Cuthbert's Way,track,1,1,0,./GPX files/St-Cuthberts-Way.gpx
+130,Anglesey Ynys Mon Pilgrimage,track,1,1,54,./GPX files/Anglesey-Druids-Pilgrimage.gpx
+131,"4: Islip to Christ Church Cathedral, Oxford (11 miles)",track,1,1,13,./GPX files/4-Islip-to-Christ-Church-Cathedral-Oxford-11-miles.gpx
+132,,route,1,0,0,./GPX files/Two Saints Way (new).gpx
+133,Lancaster: St Mary's Way (North),track,1,1,0,./GPX files/Lancaster RC Diocese - St Mary_s Way.gpx
+134,,route,1,0,0,./GPX files/Peak Pilgrimage.gpx
+135,Salisbury Cathedral from Dinton,track,1,1,0,./GPX files/Salisbury-Cathedral-from-Dinton.gpx
+136,Leicester Cathedral from Wistow.gpx,track,2,2,9,./GPX files/Leicester-Cathedral-from-Wistow.gpx
+137,,route,1,0,0,./GPX files/Meon Valley Churches Walk.gpx
+138,Havant to Chichester (Stage 3 of Old Way),track,1,1,0,./GPX files/3.Havant-Chichester.gpx
+139,Newcastle Cathedral Pilgrimage in a Day,track,1,1,10,./GPX files/Newcastle-Cathedral-Day-Pilgrimage-from Jesmond Dene.gpx
+140,,route,1,0,0,./GPX files/HerefordfromBodenham.gpx
+141,St Melangell Way,track,2,2,9,./GPX files/St-Melangell-Way.gpx
+142,Bridge to Canterbury (Stage 14 of Old Way),track,1,1,0,./GPX files/14.Bridge-Canterbury.gpx
+143,St Edmund Way - Thetford Priory to Bury St Edmunds Abbey,track,3,3,27,./GPX files/St-Edmund-Way-Thetford-to-Bury.gpx
+144,Guildford Cathedral Pilgrimage in a Day,track,2,2,17,./GPX files/Guildford-Cathedral-Pilgrimage-in-a-Day.gpx
+145,,route,1,0,0,./GPX files/StEdmund-WestStow-Bury.gpx
+146,[Duplicated] The Angel's Way,route,1,0,0,./GPX files/The Angel_s Way.gpx
+147,St Edward's Way Day 1,route,1,0,7,./GPX files/St Edward_s Way Day 1.gpx
+148,,route,1,0,0,./GPX files/Cumbrian Cistercian Way - Single Route.gpx
+149,"Abingdon Abbey to Christ Church Cathedral, Oxford - Over Boars Hill (12 miles)",track,1,1,19,./GPX files/1-Abingdon-Abbey-to-Christ-Church-Cathedral-Oxford-Over-Boars-Hill-12-miles.gpx
+150,,route,1,0,0,./GPX files/CuddysCorse.gpx
+151,,route,1,0,0,./GPX files/ChesterDayCircular.gpx
+152,The Wells of Southwell (Circular),track,3,3,3,./GPX files/Southwells-Wells-Circular-.gpx
+153,St Oswald's Way,track,2,2,1,./GPX files/St-Oswalds-Way.gpx
+154,,route,1,0,0,./GPX files/Mildenhall-West Stow.gpx
+155,Pilgrimage of Progress (2nd Half - 6.7km),track,1,1,51,./GPX files/Newcastle-Pilgrimage-of-Progress--2nd-Half---6.7km-.gpx
+156,,route,1,0,0,./GPX files/OWOG 9 Apuldram to Boxgrove via Chichester.gpx
+157,,route,1,0,0,./GPX files/Anne Lister Pilgrimage - Halifax-Shibden.gpx
+158,Southampton to Titchfield (Stage 1 of Old Way),track,1,1,0,./GPX files/1.Southampton-Titchfield.gpx
+159,,route,1,0,0,./GPX files/HerefordfromCredenhill.gpx
+160,Bath Abbey Pilgrimage in a Day,track,2,2,30,./GPX files/Bath-Abbey-Pilgrimage-in-a-Day.gpx
+161,,track,1,1,0,./GPX files/East__West_Peckham_Pilgrimage_Trail.gpx
+162,,route,1,0,0,./GPX files/St Thomas_ Way [4] Llancarfan.gpx
+163,YorkMinster-Sutton-Skelton.gpx,track,1,1,1,./GPX files/York Minster-Sutton-Skelton section.gpx
+164,,route,1,0,0,./GPX files/Ely-Mildenhall.gpx
+165,Lakeland Pilgrimage,route,1,0,144,./GPX files/Lakeland Pilgrimage.gpx
+166,St Alkelda's Way,track,7,7,17,./GPX files/St-Alkeldas-Way.gpx
+167,,route,1,0,0,./GPX files/St Thomas_ Way [8] Usk.gpx
+168,Aberaeron River Pilgrimage,track,3,3,0,./GPX files/Aberaeron-River-Pilgrimage.gpx
+169,River Itchen Way,track,3,3,16,./GPX files/River-Itchen-Way.gpx
+170,,route,1,0,0,./GPX files/Ridgeway.gpx
+171,Birmingham: The St Chad's Way,track,1,1,0,./GPX files/Birmingham RC Diocese - The St Chad_s Way.gpx
+172,Hallam: The Padley Martyrs Way,track,1,1,0,./GPX files/Hallam RC Diocese - The Padley Martyrs Way.gpx
+173,,route,1,0,0,./GPX files/Walsingham Ways - Bury to Thetford.gpx
+174,Norwich Cathedral from Caistor St Edmund.gpx,track,1,1,9,./GPX files/Norwich-Cathedral-Day-from-Caistor-St-Edmund.gpx
+175,The Nidderdale Pilgrimage ,track,1,1,128,./GPX files/Nidderdale Parish Pilgrimage.gpx
+176,Middlesbrough: The Way of Our Lady of Osmotherley,track,1,1,0,./GPX files/Middlesbrough RC Diocese - The Way of Our Lady of Mount Grace.gpx
+177,,route,1,0,0,./GPX files/St Thomas_ Way [3] Ewenny.gpx
+178,Wye to Canterbury - A Micro-Pilgrimage,track,1,1,27,./GPX files/Wye-to-Canterbury-A-Micro-Pilgrimage.gpx
+179,Sandwell to Birmingham Cathedral (plus city loop),track,2,2,10,./GPX files/Birmingham Cathedral (plus city loop) from Sandwell.gpx
+180,"5: Islip to Christ Church Cathedral, Oxford (10 miles)",track,1,1,13,./GPX files/Islip-to-Oxford-Day-Cathedral-Pilgrimage.gpx
+181,The Way of St Martin pilgrimage route Dover to Canterbury,track,1,1,188,./GPX files/Way of St Martin-Dover to Canterbury.gpx
+182,Augustine Camino,track,1,1,63,./GPX files/Augustine-Camino.gpx
+183,,track,9,9,0,./GPX files/Archangels Way-Dartmoor-full-route.gpx
+184,St David's Cathedral Pilgrimage in a Day,track,4,4,11,./GPX files/St-David-s-Cathedral-Pilgrimage-in-a-Day.gpx
+185,,route,1,0,0,./GPX files/River Dart Way - Stage 1 - Dartmouth to Dittisham.gpx
+186,Sheffield Cathedral Circular Pilgrimage,track,1,1,12,./GPX files/Sheffield-Cathedral-Circular-Pilgrimage.gpx
+187,,route,1,0,0,./GPX files/Ely Cathedral from Littleport.gpx
+188,Ripon Cathedral Pilgrimage from Fountains Abbey,track,2,2,7,./GPX files/Ripon-Cathedral-Pilgrimage-from-Fountains-Abbey.gpx
+189,Lewes to Alfriston,track,1,1,41,./GPX files/7.Lewes-to-Alfriston-DC-use.gpx
+190,"Dorchester Abbey to Christ Church Cathedral, Oxford (12.5 miles)",track,2,2,22,./GPX files/3-Dorchester-Abbey-to-Christ-Church-Cathedral-Oxford-12-5-miles.gpx
+191,Welsh Cistercian Way,track,1,1,18,./GPX files/Welsh-Cistercian-Way.gpx
+192,Paulinus Way,track,2,2,25,./GPX files/Paulinus-Way.gpx
+193,Salisbury Cathedral from West Dean,track,1,1,0,./GPX files/Salisbury-Cathedral-from-West-Dean.gpx
+194,Clifton: The Whiting Way,track,1,1,0,./GPX files/Clifton RC Diocese - The Whiting Way.gpx
+195,,route,1,0,0,./GPX files/Leicester Cathedral in a Day - from Wistow via Canal.gpx
+196,Triskelion Way,track,1,1,16,./GPX files/Triskelion Way.gpx
+197,,route,1,0,0,./GPX files/StoughtontoChichester.gpx
+198,Lichfield ALT routes,track,2,2,0,./GPX files/Lichfield-ALT-routes.gpx
+199,Walsingham Abbey Coastal Pilgrimage in a Day,track,1,1,16,./GPX files/Walsingham-Abbey-Coastal-Pilgrimage-in-a-Day.gpx
+200,St Kenelm's Way & Trail,track,2,2,26,./GPX files/St-Kenelms-Way-and-Trail.gpx
+201,Way of Light,route,1,0,0,./GPX files/Way of Light.gpx
+202,,route,1,0,0,./GPX files/St Thomas_ Way [13] Hereford.gpx
+203,Tinners Way,track,3,3,33,./GPX files/Tinners-Way.gpx
+204,,route,1,0,0,./GPX files/St Ninian_s Way (inc Whithorn Way).gpx
+205,,route,1,0,0,./GPX files/Walsingham Ways - Weeting-Walsingham.gpx
+206,Way of St David (North),track,1,1,17,./GPX files/Way-of-St-David-North.gpx
+207,,route,1,0,0,./GPX files/Chester - Pegmunds Well Start.gpx
+208,Southwark & the Ordinariate of Our Lady of Walsingham: The Romero Way,track,1,1,0,./GPX files/Southwark RC Diocese - The Romero Way.gpx
+209,St Alkmunds Duffield to Derby Cathedral.gpx,track,2,2,13,./GPX files/Derby-Cathedral-from-St-Alkmunds-Duffield.gpx
+210,The Celtic Way,track,1,1,32,./GPX files/Celtic-Way.gpx
+211,Liverpool Cathedral Pilgrimage in a Day.gpx,track,1,1,9,./GPX files/Liverpool-Cathedral-Day-Pilgrimage.gpx
+212,Liverpool circular pilgrimage route,track,1,1,11,./GPX files/Liverpool-circular-pilgrimage-route.gpx
+213,Way of Love,route,1,0,0,./GPX files/Way of Love.gpx
+214,The Bodmin Way,track,1,1,6,./GPX files/Bodmin-Way.gpx
+215,Manchester Cathedral Pilgrimage in a Day,track,1,1,7,./GPX files/Manchester-Cathedral-Day-Pilgrimage-from Eccles.gpx
+216,Way of St David (South) - Pembroke Dock to St Davids,track,5,5,25,./GPX files/Way-of-St-David-Southern-route-Pembroke-Dock-to-St-Davids.gpx
+217,,route,1,0,0,./GPX files/St Illtyd_s Walk.gpx
+218,,route,1,0,0,./GPX files/Carlisle-Gretna Green.gpx
+219,,route,1,0,0,./GPX files/St Duthac_s Way.gpx
+220,,track,2,2,0,./GPX files/The_Glastonbury_Way_Day_Pilgrimage.gpx
+221,Forth to Farne Way,track,7,7,1,./GPX files/Forth to Farne Way - Updated Feb 2022.gpx
+222,Northampton: The Way of Our Lady of Guadalupe,track,1,1,0,./GPX files/Northampton RC Diocese -The Way of Our Lady of Guadalupe.gpx
+223,Blackburn Cathedral from Whalley Abbey.gpx,track,2,2,12,./GPX files/Blackburn-Cathedral-from-Whalley-Abbey.gpx.gpx
+224,Peak District Old Stones Way,track,10,10,34,./GPX files/Peak-District-Old-Stones-Way.gpx
+225,,route,1,0,0,./GPX files/The Unlikely Pilgrimage of Harold Fry.gpx
+226,,route,1,0,0,./GPX files/Yorkshire Dales Abbey Trail.gpx
+227,,route,1,0,0,./GPX files/Knapwell-Cambridge-1-day.gpx
+228,,route,1,0,0,./GPX files/StMargaretsElbowRev.gpx
+229,Liverpool: The Way of Blessed Dominic Barberi and St Edmund Arrowsmith,track,1,1,0,./GPX files/Liverpool Catholic Diocese - The Way of Blessed Dominic Barberi and St Edmund Arrowsmith.gpx
+230,,route,1,0,0,./GPX files/St James Way (New).gpx
+231,Hadrian's Wall Pilgrims Way,track,2,2,15,./GPX files/Hadrians-Wall-Pilgrims-Way.gpx
+232,Appledore to Lympne (Stage 12 of Old Way),track,1,1,0,./GPX files/12.Appledore-Lympne.gpx
+233,Truro Cathedral from Tresillian.gpx,track,1,1,10,./GPX files/Truro-Cathedral-from-Tresillian.gpx
+234,Norwich Circular Pilgrimage,track,3,3,0,./GPX files/Norwich-Circular-Pilgrimage.gpx
+235,Pilgrimage of Progress (First Half - 7.7km),track,1,1,72,./GPX files/Newcastle-Pilgrimage-of-Progress--First-Half---7.7km-.gpx
+236,YorkMinster-Skelton.gpx,track,1,1,1,./GPX files/York Minster-from Skelton.gpx
+237,,route,1,0,0,./GPX files/Portchester to Portsmouth Cathedral.gpx
+238,Arundel to Bramber (Stage 5 of Old Way),track,1,1,0,./GPX files/5.Arundel-Bramber.gpx
+239,Chichester to Arundel (Stage 4 of Old Way),track,1,1,0,./GPX files/4.Chichester-Arundel.gpx
+240,6: Eynsham to Oxford (9 miles),track,1,1,6,./GPX files/Eynsham-to-Oxford-Day-Cathedral-Pilgrimage.gpx
+241,Leeds: St Wilfrid's Way,track,1,1,0,./GPX files/Leeds RC Diocese - St Wilfrid_s Way.gpx
+242,Penrhys Pilgrimage Way Route,track,6,6,3,./GPX files/Penrhys-Pilgrimage-Way.gpx
+243,Chelmsford Cathedral Pilgrimage in a Day,track,2,2,5,./GPX files/Chelmsford-Cathedral-Pilgrimage-in-a-Day.gpx
+244,Leechwell Dartington Pilgrimage,track,1,1,14,./GPX files/Leechwell-Dartington-Totnes-Pilgrimage.gpx
+245,Blackburn Cathedral from Hollinshead.gpx,track,1,1,5,./GPX files/Blackburn-Cathedral-from-Hollinshead.gpx.gpx
+246,,route,1,0,0,./GPX files/St Thomas_ Way [12] Kilpeck.gpx
+247,Way of Life,route,1,0,0,./GPX files/Way of Life.gpx
+248,,route,1,0,0,./GPX files/St Margaret_s Way.gpx
+249,BPT York Pilgrimage in a Day,track,6,6,35,./GPX files/York-Minster-City-Circular-Day-Pilgrimage.gpx
+250,Blackburn City Heritage Circular,track,2,2,23,./GPX files/Blackburn-City-Heritage-Circular.gpx
+251,Wakefield Circular Pilgrimage,track,1,1,4,./GPX files/Wakefield-Circular-Pilgrimage.gpx
+252,Route Files,track,7,7,0,./GPX files/St Alban_s Pilgrimage in Day (from four directions).gpx
+253,St Magnus Way,track,6,6,0,./GPX files/St-Magnus-Way.gpx
+254,Birmingham Mosque to Cathedral Circular.gpx,track,1,1,5,./GPX files/Birmingham Mosque to Cathedral Circular.gpx
+255,Gower Pilgrimage Way,track,17,17,32,./GPX files/Gower-Pilgrimage-Way.gpx
+256,,route,1,0,0,./GPX files/Chester Cathedral Day - FarndontoEccleston.gpx
+257,Alfriston to Boreham Street (Stage 8 of Old Way),track,1,1,0,./GPX files/8.Alfriston-Boreham.gpx
+258,,route,1,0,0,./GPX files/Walsingham Ways - Thetford-Weeting.gpx
+259,,route,1,0,0,./GPX files/Walsingham Ways - Ely-Weeting.gpx
+260,,route,1,0,0,./GPX files/St Thomas_ Way [2] Margam.gpx
+261,Sheffield Cathedral from Wincobank,track,1,1,10,./GPX files/Sheffield-Cathedral-from-Wincobank.gpx
+262,Salisbury Cathedral to/from Old Sarum (circular),track,2,2,1,./GPX files/Salisbury-Cathedral-tofrom-Old-Sarum--circular.gpx
+263,William of Hoo Way,track,2,2,6,./GPX files/Rochester Cathedral-William-of-Hoo-Way.gpx
+264,Exeter Cathedral from Crediton or Newton St Cyres,track,2,2,23,./GPX files/Exeter-Cathedral-from-Crediton-or-Newton-St-Cyres.gpx
+265,Lleyn Pilgrims Trail,track,1,1,9,./GPX files/Lleyn-Pilgrims-Trail.gpx
+266,,route,1,0,0,./GPX files/VieFrancigenaCanterburyDover.gpx
+267,,route,1,0,0,./GPX files/Winefride-Shrewsbury-Holywell.gpx
+268,Way of Learning,route,1,0,0,./GPX files/Way of Learning.gpx
+269,,route,1,0,0,./GPX files/St Aldhelm_s Way.gpx
+270,,route,1,0,0,"./GPX files/Rosslyn Chapel, Edinburgh.gpx"
+271,ColebyLincoln.gpx,track,2,2,21,./GPX files/Lincoln from Coleby.gpx
+272,,route,1,0,0,./GPX files/St Birinus Pilgrimage.gpx
+273,,route,1,0,0,./GPX files/SalisburyWinchester.gpx
+274,Wakefield Cathedral from Dewsbury Minster.gpx,track,1,1,3,./GPX files/Wakefield-Cathedral-from-Dewsbury-Minster.gpx
+275,Old Way to Canterbury,track,1,1,0,./GPX files/0.Old Way-Full Route.gpx
+276,,route,6,0,0,./GPX files/Glastonbury+Water+Way.gpx
+277,,route,1,0,0,./GPX files/St Thomas_ Way [6] Caerphilly.gpx
+278,Cuckmere Pilgrim Path,track,1,1,0,./GPX files/Cuckmere Pilgrim Path.gpx
+279,,route,1,0,0,./GPX files/Newman Pilgrimage.gpx
+280,Aquae Sulis Way,track,2,2,0,./GPX files/Aquae-Sulis-Way.gpx
